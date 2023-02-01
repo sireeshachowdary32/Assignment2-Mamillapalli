@@ -6,13 +6,13 @@ Food Ball is one of the most popular sport and its had large group of fan follow
 ***
 ### Al-Nassr Fc
 
-1.Talisca
-2.David Ospina
-3.Luit Gustavo
+1. Talisca
+2. David Ospina
+3. Luit Gustavo
 
 ### other competitve teams
 
-*Argentina National Football Team
-*Australia National Football Team
-*Belgium National Football Team
+* Argentina National Football Team
+* Australia National Football Team
+* Belgium National Football Team
 
