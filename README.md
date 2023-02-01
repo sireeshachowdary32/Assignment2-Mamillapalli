@@ -33,3 +33,32 @@ Food Ball is one of the most popular sport and its had large group of fan follow
 > "you can't believe everything you hear-but you can repeat it"    *Mitch Hedburg*
 
 > "there is nothing better than a friend, unless it's a friend with chocolate"  *Will Ferrel*
+
+***
+***WordPress***
+[wordpress custom fields](https://css-tricks.com/snippets/wordpress/dump-all-custom-fields/)
+
+```
+<h3>All Post Meta</h3>
+
+<?php 
+
+  // Get all the data 
+  $getPostCustom = get_post_custom(); 
+
+    foreach($getPostCustom as $name=>$value) {
+
+        echo "<strong>" . $name . "</strong>"."  =>  ";
+
+        foreach ($value as $nameAr=>$valueAr) {
+                echo "<br />";
+                echo $nameAr."  =>  ";
+                echo var_dump($valueAr);
+        }
+
+        echo "<br /><br />";
+
+    }
+?>
+```
+[wordpress stackoverflow](https://stackoverflow.com/questions/38469134/how-to-add-custom-fields-to-a-wordpress-plugin)
