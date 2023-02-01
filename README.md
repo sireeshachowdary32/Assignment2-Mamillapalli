@@ -21,8 +21,8 @@ Food Ball is one of the most popular sport and its had large group of fan follow
 ***
 #### best Visiting Places
 
-|  **countries**| **discription**| **how many** days  |
-|   :---:        :---:             :---:     |
+|**countries**| **discription**| **days to spend**  |
+|   :---:   |     :---:   |     :---:     |
 |  India  |  somany historical place  | 30  |
 | Italy   |  best adventourous         |  5  |
 |  Canada  |   niagara falls          |  3   |
