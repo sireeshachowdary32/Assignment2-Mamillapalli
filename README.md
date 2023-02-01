@@ -27,3 +27,9 @@ Food Ball is one of the most popular sport and its had large group of fan follow
 | Italy   |  best adventourous         |  5  |
 |  Canada  |   niagara falls          |  3   |
 |  Venice  |   beautiful bridges      |  10  |
+
+***
+
+> "you can't believe everything you hear-but you can repeat it"    *Mitch Hedburg*
+
+> "there is nothing better than a friend, unless it's a friend with chocolate"  *Will Ferrel*
