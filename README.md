@@ -17,3 +17,13 @@ Food Ball is one of the most popular sport and its had large group of fan follow
 * Belgium National Football Team
 
 [aboutme](https://github.com/sireeshachowdary32/Assignment2-Mamillapalli/blob/main/AboutMe.md)
+
+***
+#### best Visiting Places
+
+|  **countries**| **discription**| **how many** days  |
+|   :---:        :---:             :---:     |
+|  India  |  somany historical place  | 30  |
+| Italy   |  best adventourous         |  5  |
+|  Canada  |   niagara falls          |  3   |
+|  Venice  |   beautiful bridges      |  10  |
